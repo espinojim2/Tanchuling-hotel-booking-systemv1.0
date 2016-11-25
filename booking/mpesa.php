@@ -1,0 +1,6 @@
+<td valign="top" class="body" style="padding-bottom:10px;">
+  <div id="mpesa">THANK YOU FOR MAKING YOUR RESRVATION .
+    TO PAY YOUR BILL PRESENT YOUR PAYMENT RECEIPT WHEN YOU GO HERE IN TANCHULING Hotel. YOU ARE EXPECTED TO PAY <?PHP echo $_SESSION['pay']; ?>
+	FOR THE MOST RECENT TRANSCTION YOU MADE.
+  </div>
+<td>
